@@ -3,7 +3,7 @@
 # Project Name
 
 > its the first project to creat a simple header line!
-![screenshot](./screen_shot\Untitled.png)
+![screenshot](https://github.com/ZahraArshia/HelloMicroverse-project/blob/main/screen_shot/Untitled.png)
 there is no special features in this project! its just a header!!!
 
 ## Built With
