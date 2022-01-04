@@ -77,5 +77,6 @@ typings/
 
 #my ignored files
 test.md
-.node_modules
-node_modules
+
+# .gitignore
+node_modules/
