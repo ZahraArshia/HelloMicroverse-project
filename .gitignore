@@ -77,3 +77,9 @@ typings/
 *.md
 test.md
 someText.txt
+
+#my ignored files
+test.md
+
+# .gitignore
+node_modules/
