@@ -74,3 +74,8 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# my ignored files 
+test.md
+.node_modules
+node_modules
