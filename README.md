@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Set up a "Hello Microverse" project
 
 > its the first project to creat a simple header line!
 ![screenshot](https://github.com/ZahraArshia/HelloMicroverse-project/blob/main/screen_shot/Untitled.png)
