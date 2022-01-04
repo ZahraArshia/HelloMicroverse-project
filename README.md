@@ -1,18 +1,63 @@
-# Seting up a "Hello Microverse" project
-<h1 dir="auto"> "project name" </h1>
-<p dir="auto">its the seconde day code excercise in microverse</p>
-<h2 dir="auto">"built with</h2>
-<ul dir="auto">
-    <li>HTML</li>
-    <li>CSS</li>
-</ul>
-<p dir="auto">
-    <g-emoji class="g-emoji" alias="bust_in_silhouette" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f464.png">👤</g-emoji>
-    <strong>author</strong>
-</p>
-<ul dir="auto">
-    <li>Zahra</li>
-    <li>
-        <a href="https://github.com/ZahraArshia/Set-up-HelloMicroverse-project.git">github</a>
-    </li>
-</ul>
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Set up a "Hello Microverse" project
+
+> its the first project to creat a simple header line!
+![screenshot](https://github.com/ZahraArshia/HelloMicroverse-project/blob/main/screen_shot/Untitled.png)
+there is no special features in this project! its just a header!!!
+## Built With
+
+- Html
+- CSS
+
+## Live Demo
+
+[Live Demo Link](https://livedemo.com)
+
+
+## Getting Started
+
+its so easy to use this one line project! just get a copy and run it!
+
+
+### Prerequisites
+nothing!
+
+### Setup
+no need!
+ 
+### Install
+no need!
+### Usage
+easy !
+### Run tests
+no test needed !
+### Deployment
+maybe later :)
+
+
+## Authors
+
+👤 **Zahra**
+
+- GitHub: [@githubhandle](https://github.com/ZahraArshia)
+
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- have a nice day!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
